@@ -32,8 +32,8 @@ To retrieve data from the sensors into the Firebase, we created a python script 
 ![Login Page](/Images/login_page.png)
 
 ### Main Page (Level 1 of the library)
-* Seat status within the library
-* Inform librarians on seats to be cleared (After a grace period of 20 minutes, if the items are still left unattended.) 
+* Seats status of the library
+* Inform librarians on seats to be cleared (if the items are still left unattended for 20 minutes) 
 
 ![Main Page](/Images/level1.png)
 
